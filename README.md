@@ -45,4 +45,4 @@ Os controllers fazem a mediação entre a View e o Model/DAO, processando as aç
 
 ## Créditos
 
-Desenvolvido por [Seu Nome] para a disciplina de POO III.
+Desenvolvido por Luan Limas de Souza para a disciplina de POO III.
